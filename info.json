@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4f592011e311985830d77dbd529d1c88ca8f74dc",
+    "author": "henry senyondo <henrykironde@gmail.com>",
+    "time": "2020-09-25 16:49:08",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #252 from ethanwhite/paper\n\nAdd draft of paper for JOSS"
+  },
+  "remote": "https://github.com/ropensci/rdataretriever",
+  "pkg": "rdataretriever"
+}
