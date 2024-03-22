@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "20a6e3cb07fa9eab9c889c6878b806643ce3ed0a",
+    "author": "henry senyondo <henrykironde@gmail.com>",
+    "time": "2022-05-14 03:54:23",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #305 from henrykironde/copyright\n\nMove copyright to Description"
+  },
+  "repo": "https://github.com/ropensci/rdataretriever",
+  "pkg": "rdataretriever"
+}
