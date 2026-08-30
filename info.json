@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "36d927291f1d2d8edbb41d0bd1ef0ff22de4fcfe",
+    "author": "henry senyondo <henrykironde@gmail.com>",
+    "time": "2024-07-25T07:05:29Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #310 from henrykironde/notes\n\nRemove Status NOTEs"
+  },
+  "repo": "https://github.com/ropensci/rdataretriever",
+  "pkg": "rdataretriever",
+  "time": "2026-08-30T07:23:14Z"
+}
